@@ -1,1 +1,5 @@
 images/** filter=lfs diff=lfs merge=lfs -text
+images/cas1.jpg filter=lfs diff=lfs merge=lfs -text
+images/foot1.jpeg filter=lfs diff=lfs merge=lfs -text
+images/acc2.jpeg filter=lfs diff=lfs merge=lfs -text
+images/bag8.jpg filter=lfs diff=lfs merge=lfs -text
